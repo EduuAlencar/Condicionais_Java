@@ -25,7 +25,7 @@ public class Condicionais02 {
                 fazConversaoCF(valor);
                 continuar = finalizar();
             }else {
-                System.out.println("DIGITA DIREITO SEU ANIMAL");
+                System.out.println("Digite certo por favor");
             }
         }while(continuar);
     }
