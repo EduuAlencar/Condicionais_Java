@@ -4,7 +4,7 @@ public class Condicionais01 {
 
     public static void main(String[]args) {
         Scanner in = new Scanner(System.in);
-
+ //int
         int nota1;
         int nota2;
         int nota3;
